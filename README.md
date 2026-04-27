@@ -74,4 +74,4 @@ The implemented model follows the original Transformer architecture and is built
 
 ## ⭐ Acknowledgements
 
-This project is part of my learning journey in deep learning and NLP, aimed at building a strong intuitive and practical understanding of transformer-based architectures.
+This project is part of my learning journey in deep learning and NLP, aimed at building a strong intuitive and practical understanding of transformer-based architectures. It was based on the DataCamp Transformer Models with PyTorch course.
